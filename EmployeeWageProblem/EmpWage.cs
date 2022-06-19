@@ -13,7 +13,7 @@ namespace EmployeeWageProblem
         {
             int Totalwage = 0;
             int Totalhrs = 0;
-            int NumberOfWorkingDays = 20;
+         
             int PartTimeHr = 4;
             int FullTimeHr = 8;
            
